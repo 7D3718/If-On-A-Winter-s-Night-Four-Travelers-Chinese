@@ -20,7 +20,7 @@
 1. 下载Github页面的Releases，并解压。
 2. 打开Steam，在库中找到*If On A Winter's Night,Four Travelers*，右键-管理-浏览本地文件。
 3. 在打开的文件资源管理器中，将解压后的所有文件复制到游戏目录下。应保证acwin.exe等文件和ioawn4t.exe在同一目录下。如图所示： <img width="1076" height="922" alt="image" src="https://github.com/user-attachments/assets/23b9b484-9a37-4f0c-aa5e-b3af0280ba02" />
-4. 打开winsetup.exe，设置"Game language"为Chinese，点击"Save"（不要点击"Save and Run"，会报错）。
+4. 打开winsetup.exe，设置"Game language"为Chinese，点击"Save"（不要点击"Save and Run"，会报错）。（其他系统可尝试打开acsetup.cfg，找到[language]，将translation设置为Chinese，即translation=Chinese，保存；具体可行性未知）
 5. 打开acwin.exe即可运行游戏。
 6. 在Steam库中，直接点击“运行游戏”会报错是因为Steam从ioawn4t.exe启动。可在Steam库中找到本游戏，右键-属性…，在启动选项处，复制【"你的游戏路径\acwin.exe" %command%】（以本人的路径举例，我需要修改路径为"D:\SteamLibrary\steamapps\common\If On A Winter's Night Four Travelers\acwin.exe" %command%）修改启动选项，修改后即可从Steam正常启动游戏。
 
@@ -81,7 +81,7 @@ troubleshooting-中文版.md：对troubleshooting.pdf的中文翻译。（另一
 
 出自《黄衣之王》。
 
-瓦莱丽小姐提到的'Far afield a woman cried, 'I have killed him I loved!' and from a jar she poured blood upon the flowers whose petals are whiter than snow and whose hearts are pure gold.'这一段，出自《先知的天堂》中的《牺牲（The Sacrifice）》小节（想阅读原文，可看：[黄衣之王/先知的天堂——维基文库，免费的在线图书馆 --- The King in Yellow/The Prophets' Paradise - Wikisource, the free online library](https://en.wikisource.org/wiki/The_King_in_Yellow/The_Prophets'_Paradise)）。
+瓦莱丽小姐提到的'Far afield a woman cried, 'I have killed him I loved!' and from a jar she poured blood upon the flowers whose petals are whiter than snow and whose hearts are pure gold.'这一段，出自《先知的天堂》中的《牺牲（The Sacrifice）》小节（想阅读原文，可看：[The King in Yellow/The Prophets' Paradise](https://en.wikisource.org/wiki/The_King_in_Yellow/The_Prophets'_Paradise)）。
 
 此处选择的翻译：“远方的田野中，一个女人在哭喊：‘我已经杀死了我爱的他！’她将一只罐子里的鲜血浇灌在花朵上。那些花瓣比雪更白，花蕊比黄金更纯粹。”是李镭老师的译本[黄衣之王 (豆瓣)](https://book.douban.com/subject/34670056/)。
 
@@ -107,7 +107,9 @@ troubleshooting-中文版.md：对troubleshooting.pdf的中文翻译。（另一
 
 'Parigi, o cara' by Giuseppe Verdi.《告别巴黎》by 朱塞佩·威尔第
 
-歌剧《茶花女》中的选段。根据readme.pdf，游戏中是Amelita Galli-Curci & Tito Schipa演唱的版本。此处提供网易云链接：https://music.163.com/song?id=464731834&uct2=U2FsdGVkX1/A+wo/tNA18Ya1kQE5OWxQwrbqMMXRb2s=
+歌剧《茶花女》中的选段。根据readme.pdf，游戏中是Amelita Galli-Curci & Tito Schipa演唱的版本。
+
+此处提供网易云链接：https://music.163.com/song?id=464731834&uct2=U2FsdGVkX1/A+wo/tNA18Ya1kQE5OWxQwrbqMMXRb2s=
 
 'My New York' by Mal Hallett and his Orchestra.《我的纽约》by Mal Hallett and his Orchestra
 
@@ -165,9 +167,9 @@ Yes. And yet, it is also said that 'my Threshold is fashioned out of all the dre
 
 国内似乎暂无本书相关译本。
 
-本书相关链接：[Knowledge of the Higher Worlds and Its Attainment: IX. Th... | Internet Sacred Text Archive](https://sacred-texts.com/eso/khw/khw13.htm)
+本书相关链接：[Knowledge of the Higher Worlds and Its Attainment| Internet Sacred Text Archive](https://sacred-texts.com/eso/khw/khw13.htm)
 
-[更高世界的知识及其获得（1947）——鲁道夫·斯坦纳档案馆](https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c09.html)
+[更高世界的知识及其获得（1947）—鲁道夫·斯坦纳档案馆](https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c09.html)
 
 ##### 图书馆里的书
 
@@ -187,4 +189,5 @@ The Treasure That Combines All Arts，《汇通诸艺之宝》：
 
 国内似乎暂时没有这本书。
 
-相关链接：[Treatise on Military Art. | Library of Congress](
+相关链接：[Treatise on Military Art. | Library of Congress](https://www.loc.gov/item/2021667392/)
+
