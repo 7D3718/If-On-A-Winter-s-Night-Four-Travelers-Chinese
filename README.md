@@ -180,7 +180,6 @@ The Art of War，《孙子兵法》：很有名，不用说。
 The Conquest of Gaul，《高卢战记》：也很有名。
 
 豆瓣阅读：[高卢战记 (豆瓣)](https://book.douban.com/subject/1511912/)
-
 微信读书：[高卢战记-微信读书](https://weread.qq.com/web/reader/65e329a0717d45e965eef21)
 
 The Treasure That Combines All Arts，《汇通诸艺之宝》：
@@ -191,3 +190,42 @@ The Treasure That Combines All Arts，《汇通诸艺之宝》：
 
 相关链接：[Treatise on Military Art. | Library of Congress](https://www.loc.gov/item/2021667392/)
 
+###### 儿童
+
+Tales of Anansi. The adventures of Brer Rabbit. All the pretty little horses.
+
+《安纳西的故事》。《布莱尔兔历险记》。《所有漂亮的小马驹》。
+
+Tales of Anansi，《安纳西的故事》。西非儿童故事。Anansi是西非民间传说中的人物，与故事、智慧、知识、机智、顽皮、狡猾和诡计相关，常被描绘成一只蜘蛛（Anansi也有蜘蛛的意思）。
+以下链接可能会出现（经过艺术加工的？）蜘蛛/蜘蛛和人的混合形态，若你可能会对此感到害怕，请谨慎点击链接。
+如果你对Anansi在非洲文化中的影响感兴趣，可参考：[Tales of the Trickster: How Anansi Shaped African Culture - African Mythology](https://african.mythologyworldwide.com/tales-of-the-trickster-how-anansi-shaped-african-culture/)。
+此处翻译为安纳西而非阿南希、阿南西，参考了[蜘蛛之神安纳西，一切故事的主人 | 机核 GCORES](https://www.gcores.com/articles/122759)。
+安纳西具体的故事可以参考以下几个链接：
+[Tiny Tales: Traditional Stories in 100 Words: Tiny Tales of Anansi](https://microfables.blogspot.com/2020/08/tiny-tales-of-anansi.html)
+[Anansi Folktales Collection: The Clever Spider of West Africa | FolktalesAfrica.com](https://folktales.africa/anansi-folktales-collection-the-clever-spider-of-west-africa/)
+[阿南西民间故事与神话 |虚幻症 --- Anansi Folktales & Myths | Mythopia](https://mythopia.io/tagged/405/anansi-tales)
+
+The adventures of Brer Rabbit，《布莱尔兔历险记》。美国儿童故事。Brer Rabbit（布莱尔兔）是美国非裔民间故事中的核心角色，他的故事似乎与安纳西有些相同。
+有同名电影：[野兔大冒险 (豆瓣)](https://movie.douban.com/subject/5210294/)
+
+All the Pretty Little Horses，《所有漂亮的小马驹》。来自美国的传统摇篮曲，通常被认为是非裔美国人创作。对这首歌的研究称，这可能是一首来自奴隶的摇篮曲。
+
+###### 爱情
+
+Ars Amandi... Song of Songs... Kama Sutra... The spirit and the flesh, always inextricably intertwined.《罗马爱经》……《雅歌》……《印度爱经》……灵与肉，总是难解难分。
+
+Ars Amandi，《罗马爱经》，本名为《爱的艺术》，如果翻译为《爱的艺术》容易与其他书籍混淆，因此参考国内书籍译名翻译为《罗马爱经》。古罗马诗人奥维德创作的爱情诗。
+
+此处提供两个译本链接：
+
+[罗马爱经 (豆瓣)](https://book.douban.com/subject/7057990/)，戴望舒译本。
+[罗马爱经 (豆瓣)](https://book.douban.com/subject/26856782/)，黄建华、黄迅余译本。
+
+Song of Songs，《雅歌》，旧约圣经诗歌智慧书的第五卷，揭示了爱情绝妙之美及迷人之处。参考链接：[雅歌 1 简体中文和合本 (CUV Simplified)](https://cnbible.com/cus/songs/1.htm)（没有在传教）。
+
+Kama Sutra，《印度爱经》（直译《欲经》，因此后面他说：“灵与肉，总是难解难分。”翻译成这个方便搜索，万一有人真的想看呢……）古印度关于性爱的经典书籍。
+
+参考链接：
+
+[印度爱经 (豆瓣)](https://book.douban.com/subject/7057991/)
+[爱经 (豆瓣)](https://book.douban.com/subject/2212715/)
